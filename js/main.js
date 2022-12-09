@@ -349,7 +349,7 @@ window.addEventListener('load', function () {
         if (window.innerWidth <= 990) {
             //移动端隐藏更多页面
             $('#container').attr('class', 'container');
-            $("#change").html("Hello&nbsp;World&nbsp;!");
+            $("#change").html("欢迎访问&nbsp;这是一个仅供学习交流的页面&nbsp;!");
             $("#change1").html("");
 
             //移动端隐藏弹窗页面
