@@ -1,0 +1,46 @@
+{
+    "title": "Lan同学の主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "Lan同学,个人主页",
+    "author": "Lan同学",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "Lantongxue",
+    "logo_text_2": "top",
+    "github": "boylan1",
+    "qq": "2541436979",
+    "email": "lantiankai@outlook.com",
+    "bilibili": "",
+    "telegram": "bottom_user",
+    "link_1": [
+        "01.html/",
+        "fa-solid fa-blog",
+        "数字资源"
+    ],
+    "link_2": [
+        "02.html/",
+        "fa-solid fa-cloud",
+        "论文排版"
+    ],
+    "link_3": [
+        "03.html/",
+        "fa-solid fa-music",
+        "论文相关课程"
+    ],
+    "link_4": [
+        "04.html",
+        "fa-solid fa-compass",
+        "关于开题报告"
+    ],
+    "link_5": [
+        "05.html",
+        "fa-solid fa-book-bookmark",
+        "论文各部写法"
+    ],
+    "link_6": [
+        "06.html",
+        "fa-solid fa-flask",
+        "需要做的准备"
+    ],
+    "Copyright_text": "lan同学",
+    "beian": "暂无"
+}
