@@ -4,8 +4,9 @@
     "keywords": "Lan同学,个人主页",
     "author": "Lan同学",
     "logo_img": "./img/icon/logo1.png",
-       "logo_text_1": "i`m Lan",
-      "github": "boylan1",
+    "logo_text_1": "i`m Lan",
+    "logo_text_2": "",
+    "github": "boylan1",
     "qq": "2541436979",
     "email": "lantiankai@outlook.com",
     "bilibili": "",
@@ -26,9 +27,9 @@
         "论文相关课程"
     ],
     "link_4": [
-        "04.html",
+        "scit.html",
         "fa-solid fa-book-bookmark",
-        "关于开题报告"
+        "学校模板"
     ],
     "link_5": [
         "05.html",
