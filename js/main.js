@@ -1,9 +1,3 @@
-/*
-作者: imsyy
-主页：https://www.imsyy.top/
-GitHub：https://github.com/imsyy/home
-版权所有，请勿删除
-*/
 
 //弹窗样式
 iziToast.settings({
@@ -410,7 +404,7 @@ let content = `
 版 本 号：3.4
 更新日期：2022-07-24
 
-主页:  https://www.imsyy.top
+主页:  
 Github:  https://github.com/boylan1/home
 `
 console.log(`%c${title1} %c${title2}

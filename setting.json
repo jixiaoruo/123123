@@ -4,9 +4,8 @@
     "keywords": "Lan同学,个人主页",
     "author": "Lan同学",
     "logo_img": "./img/icon/logo1.png",
-    "logo_text_1": "i`m Lan",
-    
-    "github": "boylan1",
+    "logo_text": "i`m Lan",
+     "github": "boylan1",
     "qq": "2541436979",
     "email": "lantiankai@outlook.com",
     "bilibili": "",
@@ -41,7 +40,41 @@
         "fa-solid fa-book-bookmark",
         "需要做的准备"
     ],
-    "Copyright_text": "lan同学",
+    "link_7": [
+        "https://boylan.lanzouf.com/iyz1g0ic62kj",
+        "fa-solid fa-compass",
+        "开题报告模板"
+    ],
+    "link_8": [
+        "https://boylan.lanzouf.com/iaR3W0ic62la",
+        "fa-solid fa-compass",
+        "任务书模板"
+    ],
+
+    "link_9": [
+        "https://boylan.lanzouf.com/iM9TM0ic62wb",
+        "fa-solid fa-compass",
+        "撰写规范"
+    ],
+     "link_10": [
+        "https://boylan.lanzouf.com/iM9TM0ic62wb",
+        "fa-solid fa-compass",
+        "论文写作相关课程（比较杂）"
+    ],
+     "link_11": [
+        "https://boylan.lanzouf.com/iM9TM0ic62wb",
+        "fa-solid fa-compass",
+        "2021年极简核心论文写作指南视频地址"
+    ],
+     "link_12": [
+        "index.html",
+        "fa-solid fa-compass",
+        "主页"
+    ],
+
+
+
+              "Copyright_text": "lan同学",
     "beian": "静态测试网页"
 }
 
