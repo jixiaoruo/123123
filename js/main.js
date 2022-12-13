@@ -271,13 +271,13 @@ for (let day of days) {
             '<style>html{-webkit-filter:grayscale(100%);-moz-filter:grayscale(100%);-ms-filter:grayscale(100%);-o-filter:grayscale(100%);filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);_filter:none}</style>'
         );
         $("#change").html("Silence&nbsp;in&nbsp;silence");
-        $("#change1").html("今天是中国国家纪念日，全站已切换为黑白模式");
+        $("#change1").html("今天是中国国家公祭日，全站已切换为黑白模式");
         window.addEventListener('load', function () {
             setTimeout(function () {
                 iziToast.show({
                     timeout: 14000,
                     icon: "fa-solid fa-clock",
-                    message: '今天是中国国家纪念日'
+                    message: '今天是中国国家公祭日'
                 });
             }, 3800);
         }, false);
