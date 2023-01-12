@@ -154,7 +154,6 @@ CCTV6,http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
 CCTV6,http://39.184.224.99:9080/newlive/live/hls/6/live.m3u8
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 峨眉电影,http://182.151.211.171:808/hls/58/index.m3u8
-斗鱼周末电影院,https://epg.112114.xyz/douyu/3637726
 CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
 CCTV8,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
 CCTV8,http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
@@ -168,11 +167,22 @@ CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225918/index.m3u8
 CCTV3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 CCTV3,http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
 CCTV3,http://39.135.138.58:18890/PLTV/88888888/224/3221225647/index.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
+CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
+CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV14,http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
+翡翠台,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+翡翠台,http://23.237.10.66:16410
+翡翠台,http://120.84.96.96:808/hls/25/index.m3u8
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+斗鱼周末电影院,https://epg.112114.xyz/douyu/3637726
 
 卫视综合,#genre#
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 峨眉电影,http://182.151.211.171:808/hls/58/index.m3u8
-斗鱼周末电影院,https://epg.112114.xyz/douyu/3637726
 西昌综合,http://103.252.251.199:18085/hls/xichangweishi.m3u8?zsicd
 西昌综合,http://103.252.251.199:18085/hls/xichangweishi.m3u8
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8?zsicd
