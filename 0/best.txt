@@ -20,27 +20,11 @@ CCTV17 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv17hd8
 CCTV5+ 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 CCTV-4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
 欢笑剧场4k,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
-咪咕体育-4K-SDR源,http://120.234.220.107:9000/udp/239.20.0.66:3136
 四川卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 峨眉电影,http://182.151.211.171:808/hls/58/index.m3u8
 西昌综合,http://103.252.251.199:18085/hls/xichangweishi.m3u8?zsicd
 西昌综合,http://103.252.251.199:18085/hls/xichangweishi.m3u8
-翡翠台http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-翡翠台,http://23.237.10.66:16410
-翡翠台,http://120.84.96.96:808/hls/25/index.m3u8
-TVB明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
-TVB明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
-TVB华丽台,http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
-TVB华丽台,http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
-TVBS亚洲台,http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-澳门卫视,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 江苏卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
 广西卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
 湖南卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
@@ -122,20 +106,6 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb288
 百视TV12,http://tvmvip110.club/bs.php?id=229
 百视TV13,http://tvmvip110.club/bs.php?id=228
 百视TV14,http://tvmvip110.club/bs.php?id=246
-4K,#genre#
-CCTV 4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
-CCTV 4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-CCTV 4K,https://qiu.moe/cctv4k
-CCTV 4K,http://lu1.cc/itv/php/cctv4k.php
-纯享4K,http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-纯享4K,http://111.11.123.28:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-MUZZIK ZZ4000,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-TV BRICS 4K,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
-VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
-VTC13 4K,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 四川综合,#genre#
 四川科教,http://3017ugjo.live2.danghongyun.com:80/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8?zsicd
 南充新闻,https://file.ncntv.com.cn/cms/videos/nmip-media/channellive/channel15/playlist.m3u8?zsicd
@@ -237,7 +207,6 @@ VTC13 4K,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd
 武胜综合,http://live2.gatv.com.cn:86/live/WS.m3u8?zsicd
-
 港台频道,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
@@ -309,6 +278,8 @@ TVB星河,http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183
 八大戏剧台,http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
 八大综合台,http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 公視,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
+
+
 
 上海综合,#genre#
 东方影院,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8?zshangd
