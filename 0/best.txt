@@ -45,7 +45,7 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb288
 广西卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
 湖南卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 浙江卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视 8M,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 东方卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
 北京卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
 天津卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
@@ -58,7 +58,7 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb288
 吉林卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jlwshd8m/8000000/mnf.m3u8
 山东卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8
 江西卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8
-江西卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel22/1300.m3u8
+江西卫视 8M,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel22/1300.m3u8
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 河南卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
 河北卫视 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8
@@ -100,7 +100,28 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb288
 动漫秀场 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
 法治天地 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8
 金色学堂 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jingsepd8m/8000000/mnf.m3u8
-
+百事影视,https://bp-caster.bestv.com.cn/955/3/video.m3u8
+百事影视2,https://bp-caster.bestv.com.cn/946/3/video.m3u8
+百视独播3,http://tvmvip110.club/bs.php?id=128
+百视独播4,http://tvmvip110.club/bs.php?id=247
+百视独播5,http://tvmvip110.club/bs.php?id=144
+百视自制,http://tvmvip110.club/bs.php?id=213
+百视自制2,http://tvmvip110.club/bs.php?id=216
+百视直播,http://tvmvip110.club/bs.php?id=146
+百视TV1,http://tvmvip110.club/bs.php?id=27
+百视TV2,http://tvmvip110.club/bs.php?id=33
+百视TV3,http://tvmvip110.club/bs.php?id=41
+百视TV4,http://tvmvip110.club/bs.php?id=52
+百视TV5,http://tvmvip110.club/bs.php?id=59
+百视TV6,http://tvmvip110.club/bs.php?id=76
+百视TV7,http://tvmvip110.club/bs.php?id=96
+百视TV8,http://tvmvip110.club/bs.php?id=186
+百视TV9,http://tvmvip110.club/bs.php?id=193
+百视TV10,http://tvmvip110.club/bs.php?id=201
+百视TV11,http://tvmvip110.club/bs.php?id=218
+百视TV12,http://tvmvip110.club/bs.php?id=229
+百视TV13,http://tvmvip110.club/bs.php?id=228
+百视TV14,http://tvmvip110.club/bs.php?id=246
 四川综合,#genre#
 四川科教,http://3017ugjo.live2.danghongyun.com:80/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8?zsicd
 南充新闻,https://file.ncntv.com.cn/cms/videos/nmip-media/channellive/channel15/playlist.m3u8?zsicd
