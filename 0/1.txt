@@ -1,122 +1,122 @@
-¼ªÏéÈçÒâ,#genre#
-CCTV-1 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8?
-CCTV-2 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8?
-CCTV-3 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8?
-CCTV-4 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8?
-CCTV-5 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8?p=GITV
-CCTV-6 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-6-CQ/G_CCTV-6-CQ.m3u8?
-CCTV-7 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-7-CQ/G_CCTV-7-CQ.m3u8?
-CCTV-8 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-8-CQ/G_CCTV-8-CQ.m3u8?
-CCTV-9 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-9-CQ/G_CCTV-9-CQ.m3u8?
-CCTV-10 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-10-CQ/G_CCTV-10-CQ.m3u8?
-CCTV-11 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8?p=GITV
-CCTV-12 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-12-CQ/G_CCTV-12-CQ.m3u8?
-CCTV-13 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-CCTV-14 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8?
-CCTV-15 ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV-15 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
-CCTV-15 ³¬Çå,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV-16 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8?
-CCTV-16 ³¬Çå,http://live.cooltv.top/tv/aishang.php?id=cctv164k
-CCTV-17 ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8?p=GITV
-CCTV-5+ ³¬Çå,http://117.161.133.51/gitv_live/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8?
+å‰ç¥¥å¦‚æ„,#genre#
+CCTV-1è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8?
+CCTV-2è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8?
+CCTV-3è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8?
+CCTV-4è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8?
+CCTV-5è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8?p=GITV
+CCTV-6è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-6-CQ/G_CCTV-6-CQ.m3u8?
+CCTV-7è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-7-CQ/G_CCTV-7-CQ.m3u8?
+CCTV-8è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-8-CQ/G_CCTV-8-CQ.m3u8?
+CCTV-9è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-9-CQ/G_CCTV-9-CQ.m3u8?
+CCTV-10è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-10-CQ/G_CCTV-10-CQ.m3u8?
+CCTV-11è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8?p=GITV
+CCTV-12è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-12-CQ/G_CCTV-12-CQ.m3u8?
+CCTV-13è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
+CCTV-14è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8?
+CCTV-15è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV-15è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
+CCTV-15è¶…æ¸…,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV-16è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8?
+CCTV-16è¶…æ¸…,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV-17è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8?p=GITV
+CCTV-5+è¶…æ¸…,http://117.161.133.51/gitv_live/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8?
 CETV-1,http://tt-live.bestvcdn.com.cn/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 CETV-2,http://117.161.133.51/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 CETV-3,http://117.161.133.51/gitv_live/G_CETV-3/G_CETV-3.m3u8?p=GITV
 CETV-4,http://tt-live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-°²»ÕÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_ANHUI-CQ/G_ANHUI-CQ.m3u8?
-±±¾©ÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_BEIJING-CQ/G_BEIJING-CQ.m3u8?
-ÖØÇìÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_CHONGQING-CQ/G_CHONGQING-CQ.m3u8?
-¶«·½ÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_DONGFANG-CQ/G_DONGFANG-CQ.m3u8?
-°²»ÕÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8
-±±¾©ÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
-ÔÆÄÏÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
-Õã½­ÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
-¶«·½ÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
-¶«·½Ó°ÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
-¶«ÄÏÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/dnwshd8m/8000000/mnf.m3u8
-¸ÊËàÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
-¹ã¶«ÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
-¹ãÎ÷ÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
-¹óÖİÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/gzwshd8m/8000000/mnf.m3u8
-º£ÄÏÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-ºÓ±±ÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8
-ºÓÄÏÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
-ºş±±ÎÀÊÓ ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
-ºş±±ÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/hubeiws8m/8000000/mnf.m3u8
-ºş±±ÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/hubeiws8m/8000000/mnf.m3u8
-ºşÄÏÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-¼ªÁÖÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/jlwshd8m/8000000/mnf.m3u8
-½­ËÕÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
-½­Î÷ÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8
-ÖØÇìÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/cqws8m/8000000/mnf.m3u8
-ÁÉÄşÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/lnwshd8m/8000000/mnf.m3u8
-ºÚÁú½­ÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/hljwshd8m/8000000/mnf.m3u8
-É½¶«ÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8
-ÉîÛÚÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
-ËÄ´¨ÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
-Ìì½òÎÀÊÓ ³¬Çå,http://tt-live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
-¹ã¶«ÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_GUANGDONG-CQ/G_GUANGDONG-CQ.m3u8?
-º£ÄÏÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8?p=GITV
-ºÚÁú½­ÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ.m3u8?
-ºşÄÏÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_HUNAN-CQ/G_HUNAN-CQ.m3u8?
-¼ªÁÖÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8?
-½­ËÕÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_JIANGSU-CQ/G_JIANGSU-CQ.m3u8?
-½­Î÷ÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_JIANGXI-CQ/G_JIANGXI-CQ.m3u8?
-ÁÉÄşÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_LIAONING-CQ/G_LIAONING-CQ.m3u8?
-É½¶«ÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_SHANDONG-CQ/G_SHANDONG-CQ.m3u8?
-ÉîÛÚÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_SHENZHEN-CQ/G_SHENZHEN-CQ.m3u8?
-Ìì½òÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_TIANJIN-CQ/G_TIANJIN-CQ.m3u8?
-Õã½­ÎÀÊÓ ³¬Çå,http://117.161.133.51/gitv_live/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8?
-CCTV-1 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-CCTV-2 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-CCTV-3 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
-CCTV-4 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
-CCTV-5 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
-CCTV-5+ ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-CCTV-6 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
-CCTV-7 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
-CCTV-8 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
-CCTV-9 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
-CCTV-10 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
-CCTV-11 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
-CCTV-12 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
-CCTV-13 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-CCTV-14 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
-CCTV-16 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
-CCTV-17 ³¬Çå,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
-¿¨¿áÉÙ¶ù,http://tt-live.bestvcdn.com.cn/live/program/live/kkse8m/8000000/mnf.m3u8
-Çà´º¶¯Âş,http://tt-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
-È«Çò´óÆ¬,http://tt-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
-ÈÈÃÅ¾ç³¡,http://tt-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
-ÈÈÃÅ×ÛÒÕ,http://tt-live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
-ÎåĞÇÌåÓı,http://tt-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-ĞÇ¹âÓ°Ôº,http://tt-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
-ìÅ¶¯¿¨Í¨,http://tt-live.bestvcdn.com.cn/live/program/live/hhxd8m/8000000/mnf.m3u8
-¶¯ÂşĞã³¡,http://tt-live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
-¶¼ÊĞ¾ç³¡,http://tt-live.bestvcdn.com.cn/live/program/live/dsjc8m/8000000/mnf.m3u8
-·¨ÖÎÌìµØ,http://tt-live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8
-»ªÓïÓ°Ôº,http://tt-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
-»¶Ğ¦¾ç³¡,http://tt-live.bestvcdn.com.cn/live/program/live/hxjc8m/8000000/mnf.m3u8
-·ï»ËÖĞÎÄ,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-·ï»ËÖĞÎÄ,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-·ï»ËÖĞÎÄ,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
-·ï»ËÖĞÎÄ,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
-·ï»ËÖĞÎÄ,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-·ï»ËÖĞÎÄ,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-·ï»ËÖĞÎÄ,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-·ï»ËÖĞÎÄ,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-Ïã¸ÛÎÀÊÓ,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-Ïã¸ÛÎÀÊÓ,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-·ï»Ë×ÊÑ¶,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-·ï»Ë×ÊÑ¶,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
-·ï»Ë×ÊÑ¶,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-ôä´äÌ¨,http://120.84.96.96:808/hls/25/index.m3u8
-·ï»ËÖĞÎÄ,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-·ï»ËÖĞÎÄ,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-·ï»ËÖĞÎÄ,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-·ï»Ë×ÊÑ¶,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-·ï»Ë×ÊÑ¶,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-·ï»Ë×ÊÑ¶,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-·ï»Ë×ÊÑ¶,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-·ï»Ë×ÊÑ¶,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+å®‰å¾½å«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_ANHUI-CQ/G_ANHUI-CQ.m3u8?
+åŒ—äº¬å«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_BEIJING-CQ/G_BEIJING-CQ.m3u8?
+é‡åº†å«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_CHONGQING-CQ/G_CHONGQING-CQ.m3u8?
+ä¸œæ–¹å«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_DONGFANG-CQ/G_DONGFANG-CQ.m3u8?
+å®‰å¾½å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8
+åŒ—äº¬å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
+äº‘å—å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
+æµ™æ±Ÿå«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
+ä¸œæ–¹å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
+ä¸œæ–¹å½±è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
+ä¸œå—å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/dnwshd8m/8000000/mnf.m3u8
+ç”˜è‚ƒå«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
+å¹¿ä¸œå«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
+å¹¿è¥¿å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
+è´µå·å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/gzwshd8m/8000000/mnf.m3u8
+æµ·å—å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+æ²³åŒ—å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8
+æ²³å—å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
+æ¹–åŒ—å«è§†è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
+æ¹–åŒ—å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/hubeiws8m/8000000/mnf.m3u8
+æ¹–åŒ—å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/hubeiws8m/8000000/mnf.m3u8
+æ¹–å—å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+å‰æ—å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/jlwshd8m/8000000/mnf.m3u8
+æ±Ÿè‹å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
+æ±Ÿè¥¿å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8
+é‡åº†å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/cqws8m/8000000/mnf.m3u8
+è¾½å®å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/lnwshd8m/8000000/mnf.m3u8
+é»‘é¾™æ±Ÿå«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/hljwshd8m/8000000/mnf.m3u8
+å±±ä¸œå«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8
+æ·±åœ³å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
+å››å·å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
+å¤©æ´¥å«è§†è¶…æ¸…,http://tt-live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
+å¹¿ä¸œå«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_GUANGDONG-CQ/G_GUANGDONG-CQ.m3u8?
+æµ·å—å«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8?p=GITV
+é»‘é¾™æ±Ÿå«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ.m3u8?
+æ¹–å—å«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_HUNAN-CQ/G_HUNAN-CQ.m3u8?
+å‰æ—å«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8?
+æ±Ÿè‹å«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_JIANGSU-CQ/G_JIANGSU-CQ.m3u8?
+æ±Ÿè¥¿å«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_JIANGXI-CQ/G_JIANGXI-CQ.m3u8?
+è¾½å®å«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_LIAONING-CQ/G_LIAONING-CQ.m3u8?
+å±±ä¸œå«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_SHANDONG-CQ/G_SHANDONG-CQ.m3u8?
+æ·±åœ³å«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_SHENZHEN-CQ/G_SHENZHEN-CQ.m3u8?
+å¤©æ´¥å«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_TIANJIN-CQ/G_TIANJIN-CQ.m3u8?
+æµ™æ±Ÿå«è§†è¶…æ¸…,http://117.161.133.51/gitv_live/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8?
+CCTV-1è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
+CCTV-2è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+CCTV-3è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
+CCTV-4è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
+CCTV-5è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+CCTV-5+è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
+CCTV-6è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
+CCTV-7è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
+CCTV-8è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
+CCTV-9è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
+CCTV-10è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
+CCTV-11è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
+CCTV-12è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
+CCTV-13è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
+CCTV-14è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
+CCTV-16è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
+CCTV-17è¶…æ¸…,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
+å¡é…·å°‘å„¿,http://tt-live.bestvcdn.com.cn/live/program/live/kkse8m/8000000/mnf.m3u8
+é’æ˜¥åŠ¨æ¼«,http://tt-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
+å…¨çƒå¤§ç‰‡,http://tt-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
+çƒ­é—¨å‰§åœº,http://tt-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
+çƒ­é—¨ç»¼è‰º,http://tt-live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
+äº”æ˜Ÿä½“è‚²,http://tt-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+æ˜Ÿå…‰å½±é™¢,http://tt-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
+ç‚«åŠ¨å¡é€š,http://tt-live.bestvcdn.com.cn/live/program/live/hhxd8m/8000000/mnf.m3u8
+åŠ¨æ¼«ç§€åœº,http://tt-live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
+éƒ½å¸‚å‰§åœº,http://tt-live.bestvcdn.com.cn/live/program/live/dsjc8m/8000000/mnf.m3u8
+æ³•æ²»å¤©åœ°,http://tt-live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8
+åè¯­å½±é™¢,http://tt-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
+æ¬¢ç¬‘å‰§åœº,http://tt-live.bestvcdn.com.cn/live/program/live/hxjc8m/8000000/mnf.m3u8
+å‡¤å‡°ä¸­æ–‡,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+å‡¤å‡°ä¸­æ–‡,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+å‡¤å‡°ä¸­æ–‡,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
+å‡¤å‡°ä¸­æ–‡,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
+å‡¤å‡°ä¸­æ–‡,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+å‡¤å‡°ä¸­æ–‡,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+å‡¤å‡°ä¸­æ–‡,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+å‡¤å‡°ä¸­æ–‡,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+é¦™æ¸¯å«è§†,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+é¦™æ¸¯å«è§†,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+å‡¤å‡°èµ„è®¯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+å‡¤å‡°èµ„è®¯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+å‡¤å‡°èµ„è®¯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+ç¿¡ç¿ å°,http://120.84.96.96:808/hls/25/index.m3u8
+å‡¤å‡°ä¸­æ–‡,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+å‡¤å‡°ä¸­æ–‡,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+å‡¤å‡°ä¸­æ–‡,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+å‡¤å‡°èµ„è®¯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+å‡¤å‡°èµ„è®¯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+å‡¤å‡°èµ„è®¯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+å‡¤å‡°èµ„è®¯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+å‡¤å‡°èµ„è®¯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
