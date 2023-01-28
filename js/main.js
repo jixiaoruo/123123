@@ -291,12 +291,12 @@ $('#switchmore').on('click', function () {
     if (shoemore && $(document).width() >= 990) {
         $('#container').attr('class', 'container mores');
         $("#change").html("Oops&nbsp;!");
-        $("#change1").html("哎呀，这都被你发现了（ 再点击一次可关闭 ）");
+        $("#change1").html("愿时光不被辜负，愿你不孤独（ 点击关闭 ）");
     } else {
-        $('#container').attr('class', 'container');
-        $("#change").html("欢迎访问&nbsp;&nbsp;!");
-        $("#change1").html("这是一个仅供学习交流使用的页面");
-    }
+     $('#container').attr('class', 'container');
+         $("#change").html("欢迎访问&nbsp;&nbsp;!");
+         $("#change1").html("这是一个仅供学习交流使用的页面");
+     }
 });
 
 //更多页面关闭按钮
